@@ -35,3 +35,4 @@ Collate:
     'spplot.R'
     'xval.R'
     'showMrp.R'
+    'reindividualize.R'
